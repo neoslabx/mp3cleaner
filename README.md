@@ -62,8 +62,8 @@ cleaner.cleanfromfolder(r"C:\Users\YourName\Music")
 ### File Structure
 
 ```
-mp3cleaner.py        # Main script containing MP3Cleaner class
-README.md               # Project documentation
+mp3cleaner.py       # Main script containing MP3Cleaner class
+README.md           # Project documentation
 ```
 
 * * *
